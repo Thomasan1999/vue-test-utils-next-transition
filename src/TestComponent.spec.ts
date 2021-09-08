@@ -1,7 +1,7 @@
 import {shallowMount} from '@vue/test-utils'
 import TestComponent from '@/TestComponent.vue';
 
-describe('TransitionWrapper',() =>
+describe('TestComponent',() =>
 {
     it('stubs transition template',() =>
     {
